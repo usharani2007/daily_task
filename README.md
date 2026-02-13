@@ -6,5 +6,9 @@ daily task on  basic python
 
 
 
-task\_ i learn how to use print statement
+task\_ 1 learn how to use print statement
+
+
+
+task\_2 learn data types upto complex  and using type function
 
