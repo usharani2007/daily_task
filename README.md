@@ -14,5 +14,13 @@ task\_2 learn data types upto complex  and using type function
 
 
 
-tasl\_3  learn to types int to tuple using function 
+tasl\_3  learn to types int to tuple using function
+
+
+
+
+
+task4 today learn to  list complex int set forzenset floating point 
+
+
 
