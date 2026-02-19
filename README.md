@@ -24,7 +24,11 @@ task4 today learn to  list complex int set forzenset floating point
 
 
 
+task5 today learn to syntax error inavild name error string bool float
 
 
-task5 today learn to syntax error inavild name error string bool float 
+
+
+
+task7 toady i learn to negative index positive index using slicing and get numbers strung
 

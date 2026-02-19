@@ -1,0 +1,4 @@
+name="pythondevloper"
+print(name)
+print(name[0])
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
