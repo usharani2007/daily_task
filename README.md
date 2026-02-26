@@ -28,11 +28,15 @@ task5 today learn to syntax error inavild name error string bool float
 
 
 
-task6 today learn to index and slicing negative 
+task6 today learn to index and slicing negative
 
 
 
 
 
 task7 toady i learn to negative index positive index using slicing and get numbers strung
+
+
+
+task8 toady i learn to arthmatic op addition,sub,mul,div,module,exp 
 

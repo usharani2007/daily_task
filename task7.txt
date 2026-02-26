@@ -1,4 +1,6 @@
-name="pythondevloper"
-print(name)
-print(name[0])
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+num_1=10
+num_2=3
+addition=num_1+num_2
+print("num_1 value is :",num_1)
+print(num_2 value is :",num_2)
+print("addition of num_1+num_2 is :",addition)
