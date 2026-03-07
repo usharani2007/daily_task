@@ -38,5 +38,9 @@ task7 toady i learn to negative index positive index using slicing and get numbe
 
 
 
-task8 toady i learn to arthmatic op addition,sub,mul,div,module,exp 
+task8 toady i learn to arthmatic op addition,sub,mul,div,module,exp
+
+
+
+task9 today i learn to all datatypes and opreators only arthmatic compersion assignment 
 
