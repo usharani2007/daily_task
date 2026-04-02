@@ -4,7 +4,7 @@ print("even numbers 1 to 10")
 for x in range(2,11,2):
     print(x)
 list=[1,10,15,20,45-12.2,-12,12.15,10.25]
-print("fetching even numbers is abobe list")
+print("fetching even numbers is above list")
 for i in list:
  if(i%2==0):
    print(i)
@@ -14,4 +14,3 @@ for i in tuple:
    print(i**(1/2))
 for x in range(0,+9,-1):
    print(x)
-
